@@ -8,7 +8,8 @@
     "x-tag-core": "~0.9.3",
     "x-tag-iconbutton": "~0.1.2",
     "x-tag-tabbar": "~0.1.8",
-    "x-tag-switch": "~0.2.2"
+    "x-tag-switch": "~0.2.2",
+    "x-tag-deck": "~0.2.4"
   },
   "ignore": [
     "**/.*",
