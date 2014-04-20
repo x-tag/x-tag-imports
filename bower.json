@@ -10,7 +10,8 @@
     "x-tag-tabbar": "~0.1.8",
     "x-tag-switch": "~0.2.2",
     "x-tag-deck": "~0.2.4",
-    "x-tag-transitions": "~0.1.3"
+    "x-tag-transitions": "~0.1.3",
+    "x-tag-flipbox": "~0.2.8"
   },
   "ignore": [
     "**/.*",
